@@ -21,6 +21,7 @@ import { Link } from '@inertiajs/inertia-vue3';
  <style scoped>
     .back{
         background: url('/img/background.gif');
+        
     }
     .bg-white{
         background-color: rgba(255, 255, 255, 0.626) !important;
