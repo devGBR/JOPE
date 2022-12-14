@@ -21,9 +21,16 @@ import { Link } from '@inertiajs/inertia-vue3';
  <style scoped>
     .back{
         background: url('/img/background.gif');
-        
+        max-width: 1496px;
     }
     .bg-white{
         background-color: rgba(255, 255, 255, 0.626) !important;
+    }
+    @media only screen and (min-width:1496px){
+        .back{
+            background: url('/img/background.gif');
+            background-repeat: repeat;
+            max-width: 100%; 
+        }   
     }
  </style>
