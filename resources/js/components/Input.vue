@@ -15,5 +15,9 @@ onMounted(() => {
 </script>
 
 <template>
-    <input  id="email-address-icon" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" :value="modelValue" @input="$emit('update:modelValue', $event.target.value)" ref="input">
+    <input  id="small_standard" class="block pl-11 px-2.5 pb-1.5 pt-3 w-full text-sm text-gray-900 bg-transparent rounded-lg border-1 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer" :value="modelValue" @input="$emit('update:modelValue', $event.target.value)" ref="input">
 </template>
+
+<style scoped>
+    
+</style>

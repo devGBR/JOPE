@@ -8,7 +8,7 @@ import { Link } from '@inertiajs/inertia-vue3';
         
         <div>
             <Link href="/">
-                <BreezeApplicationLogo class="w-20 h-20 fill-current text-gray-500" />
+                <BreezeApplicationLogo class="w-20 h-20 fill-current text-gray-500" style="    margin-bottom: 22px;"/>
             </Link>
         </div>
 
@@ -24,7 +24,7 @@ import { Link } from '@inertiajs/inertia-vue3';
         max-width: 1496px;
     }
     .bg-white{
-        background-color: rgba(255, 255, 255, 0.626) !important;
+        background-color: rgb(13, 15, 33)!important;
     }
     @media only screen and (min-width:1496px){
         .back{
