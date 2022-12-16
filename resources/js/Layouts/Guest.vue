@@ -12,9 +12,9 @@ import { Link } from '@inertiajs/inertia-vue3';
             </Link>
         </div>
 
-        <div class="w-full sm:max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg">
+        
             <slot />
-        </div>
+       
     
     </div>
 </template>
@@ -23,9 +23,7 @@ import { Link } from '@inertiajs/inertia-vue3';
         background: url('/img/background.gif');
         max-width: 1496px;
     }
-    .bg-white{
-        background-color: rgb(13, 15, 33)!important;
-    }
+    
     @media only screen and (min-width:1496px){
         .back{
             background: url('/img/background.gif');
