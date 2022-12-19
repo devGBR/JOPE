@@ -22,6 +22,8 @@
 
         @env ('local')
             <script src="http://localhost:8080/js/bundle.js"></script>
+            <script src="Https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
         @endenv
+        
     </body>
 </html>

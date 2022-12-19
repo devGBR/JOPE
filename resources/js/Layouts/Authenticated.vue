@@ -86,7 +86,8 @@ export default {
 
   <!-- Page Content -->
   <div class="main">
-    <main>
+    <main style="margin: 0 auto;
+    margin-top: 38px;">
       <slot />
     </main>
     <!-- SideBar -->
@@ -137,6 +138,7 @@ export default {
   max-width: 1480 !important;
   display: flex;
   justify-content: space-between;
+  background-image: linear-gradient(352deg, #912121, #2a3480)
 }
 .column{
     min-height: 670px;
@@ -167,6 +169,7 @@ export default {
   transition: 2s;
   animation: opacity;
 }
+
 @keyframes opacity {
   50% {
     opacity: 0.5;
