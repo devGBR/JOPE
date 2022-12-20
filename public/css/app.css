@@ -681,6 +681,9 @@ select {
 .pointer-events-none {
   pointer-events: none;
 }
+.collapse {
+  visibility: collapse;
+}
 .static {
   position: static;
 }
@@ -692,6 +695,9 @@ select {
 }
 .relative {
   position: relative;
+}
+.sticky {
+  position: sticky;
 }
 .inset-0 {
   top: 0px;

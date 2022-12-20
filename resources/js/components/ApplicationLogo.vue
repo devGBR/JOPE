@@ -1,7 +1,7 @@
 <template>
-         <div alt="" class="tm">
-            <h1>J &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-            <h1 class="O">O</h1>
+         <div alt="" class="fundo">
+            <h1>J &nbsp;&nbsp;&nbsp;&nbsp;</h1>
+            <h1 class="letra">O</h1>
             <h1>PE</h1>
          </div>
 </template>
@@ -35,7 +35,7 @@ h1 {
    } 
    
 }
- .tm{
+ .fundo{
    background: black;
    padding: 4px 53px 10px ;
    border-radius: 8px;   
@@ -43,7 +43,7 @@ h1 {
     width: 226px;
     display: flex;
  }
- .O{
+ .letra{
    margin-top: 8px;
     margin-left: 5px;
     margin-right: -18px;

@@ -29,8 +29,20 @@ export default {
 </script>
 
 <template>
+  <div class="pg">
+      <!-- Page Content -->
+  <div class="main">
+    <main style="margin: 0 auto;
+    margin-top: 38px;
+    padding-top: 59px;
+    ">
+      <slot />
+    </main>
+    <!-- SideBar -->
+    
+  </div>
   <nav
-    class="p-3 border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700"
+    class="p-3 nav border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700"
   >
     <div class="flex flex-wrap items-center justify-between">
       <a href="#" class="flex items-center" style="padding-left: 23px">
@@ -84,14 +96,7 @@ export default {
     </div>
   </nav>
 
-  <!-- Page Content -->
-  <div class="main">
-    <main style="margin: 0 auto;
-    margin-top: 38px;">
-      <slot />
-    </main>
-    <!-- SideBar -->
-    <div
+  <div
       class="column dark:bg-gray-800" :class="sidebar">
       <ul class="space-y-2">
         <Link as="button" class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg transition duration-75 hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white group" style="padding-left: 6px; margin-left: 4px; padding-right: 10px;">
@@ -130,20 +135,23 @@ export default {
       </Link>             
     </ul>
   </div>
-    
-  </div>
+
+</div>
 </template>
 <style scoped>
 .main {
   max-width: 1480 !important;
   display: flex;
   justify-content: space-between;
-  background-image: linear-gradient(352deg, #912121, #2a3480)
+  background-image: linear-gradient(352deg, #912121, #2a3480);
+  min-height: 733px;
 }
 .column{
     min-height: 670px;
     width: 55px;
-    height:100%;
+    position: fixed;
+    top: 63px;
+    right: 0px;
     display: grid;
     align-content: space-between;
 }
@@ -169,6 +177,13 @@ export default {
   transition: 2s;
   animation: opacity;
 }
+.nav{
+  position: fixed;
+  width: 100%;
+  max-width: 1490px;
+  flex-direction: column;
+  top: 0;
+}
 
 @keyframes opacity {
   50% {
@@ -177,5 +192,38 @@ export default {
   100% {
     opacity: 0;
   }
+}
+@media only screen and (min-width: 320px){
+        .column{
+            min-height: 615px;
+        }
+}
+@media only screen and (min-width: 375px){
+        .column{
+            min-height: 615px;
+        }
+}
+@media only screen and (min-width: 414px){
+        .column{
+            min-height: 833px;
+        }
+        .main{
+          min-height: 897px;
+        }
+}
+@media only screen and (min-width: 425px){
+        .column{
+            min-height: 615px;
+        }
+}
+@media only screen and (min-width: 768px){
+        .column{
+            min-height: 670px;
+        }
+}
+@media only screen and (max-width: 1025px){
+        .column{
+            min-height: 615px;
+        }
 }
 </style>
