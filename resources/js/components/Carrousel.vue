@@ -1,5 +1,5 @@
 <template>
-   <div id="carouselExampleFade" class="carousel slide carousel-fade position" data-bs-ride="carousel">
+   <div id="carouselExampleFade" class="carousel slide carousel-fade position" data-bs-ride="carousel" style="margin: 0 auto;">
   <div class="carousel-inner">
     <div class="carousel-item active " data-bs-interval="3000">
       <img src="img/jopegroup.jpg" class="d-block w-100" alt="..." style="border-radius: 4px;">

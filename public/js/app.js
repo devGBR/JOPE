@@ -23648,7 +23648,24 @@ __webpack_require__.r(__webpack_exports__);
     Carrousel: _components_Carrousel_vue__WEBPACK_IMPORTED_MODULE_2__["default"]
   },
   data: function data() {
-    return {};
+    return {
+      time: true,
+      VerAnim: "PrimaryAnim"
+    };
+  },
+  methods: {
+    loop: function loop() {}
+  },
+  mounted: function mounted() {
+    var _this = this;
+    setTimeout(function () {
+      _this.VerAnim = "SecondAnim";
+    }, 4000);
+    if (this.time === true) {
+      setTimeout(function () {
+        _this.time = false;
+      }, 10000);
+    }
   }
 });
 
@@ -23912,7 +23929,7 @@ var _hoisted_2 = {
 };
 var _hoisted_3 = {
   style: {
-    "margin": "0 auto",
+    "width": "100%",
     "margin-top": "38px",
     "padding-top": "59px"
   }
@@ -25181,6 +25198,43 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
     "class": "vertical"
   })], -1 /* HOISTED */);
 });
+var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "conteudo"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "",
+    style: {
+      "font-family": "Montserrat, MAfinest",
+      "font-size": "65px",
+      "margin-top": "35px",
+      "font-weight": "100",
+      "margin-left": "50px"
+    }
+  }, " Missões "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "",
+    style: {
+      "border-bottom": "3px solid",
+      "border-left": "3px solid",
+      "border-radius": "1px",
+      "height": "107px",
+      "width": "267px",
+      "margin-left": "78px",
+      "padding-left": "22px",
+      "padding-top": "14px"
+    }
+  }, "JOPE significa Jovens Orando Pregando Evangelizando"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("video", {
+    "class": "h-auto rounded-lg border border-gray-200 dark:border-gray-700",
+    controls: "",
+    style: {
+      "position": "relative",
+      "left": "347px",
+      "top": "-135px"
+    }
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("source", {
+    src: "/docs/videos/flowbite.mp4",
+    type: "video/mp4"
+  }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Your browser does not support the video tag. ")])], -1 /* HOISTED */);
+});
 
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
@@ -25190,7 +25244,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     title: "Home"
   }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeAuthenticatedLayout, null, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
-      return [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_carrousel)];
+      return [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_carrousel), _hoisted_2];
     }),
     _: 1 /* STABLE */
   })], 64 /* STABLE_FRAGMENT */);
@@ -25217,7 +25271,10 @@ var _withScopeId = function _withScopeId(n) {
 var _hoisted_1 = {
   id: "carouselExampleFade",
   "class": "carousel slide carousel-fade position",
-  "data-bs-ride": "carousel"
+  "data-bs-ride": "carousel",
+  style: {
+    "margin": "0 auto"
+  }
 };
 var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"carousel-inner\" data-v-b691190a><div class=\"carousel-item active\" data-bs-interval=\"3000\" data-v-b691190a><img src=\"img/jopegroup.jpg\" class=\"d-block w-100\" alt=\"...\" style=\"border-radius:4px;\" data-v-b691190a></div><div class=\"carousel-item\" data-bs-interval=\"3000\" data-v-b691190a><img src=\"img/jopeestrada.jpg\" class=\"d-block w-100\" alt=\"...\" style=\"border-radius:4px;\" data-v-b691190a></div><div class=\"carousel-item\" data-bs-interval=\"3000\" data-v-b691190a><img src=\"img/jopebanner.jpg\" class=\"d-block w-100\" alt=\"...\" style=\"border-radius:4px;\" data-v-b691190a></div></div><button class=\"carousel-control-prev\" type=\"button\" data-bs-target=\"#carouselExampleFade\" data-bs-slide=\"prev\" data-v-b691190a><span class=\"carousel-control-prev-icon\" aria-hidden=\"true\" data-v-b691190a></span></button><button class=\"carousel-control-next\" type=\"button\" data-bs-target=\"#carouselExampleFade\" data-bs-slide=\"next\" data-v-b691190a><span class=\"carousel-control-next-icon\" aria-hidden=\"true\" data-v-b691190a></span></button>", 3);
 var _hoisted_5 = [_hoisted_2];
@@ -30771,7 +30828,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.main[data-v-7412da4a] {\n  max-width: 1480 !important;\n  display: flex;\n  justify-content: space-between;\n  background-image: linear-gradient(352deg, #912121, #2a3480);\n  min-height: 733px;\n}\n.column[data-v-7412da4a]{\n    min-height: 670px;\n    width: 55px;\n    position: fixed;\n    top: 63px;\n    right: 0px;\n    display: grid;\n    align-content: space-between;\n}\n#wid[data-v-7412da4a]{\n  width: 142px;\n}\n#w[data-v-7412da4a]{\n  width: 40px;\n}\n.side[data-v-7412da4a]{\n    width: 200px;\n    transition: width 1s;\n}\n.closed[data-v-7412da4a]{\n  width: 55px;\n  transition: width 1s;\n}\n.menu[data-v-7412da4a]:hover {\n  color: #b32c2c;\n  transition: 1.5s;\n}\n.menu[data-v-7412da4a]:active {\n  transition: 2s;\n  animation: opacity-7412da4a;\n}\n.nav[data-v-7412da4a]{\n  position: fixed;\n  width: 100%;\n  max-width: 1490px;\n  flex-direction: column;\n  top: 0;\n}\n@keyframes opacity-7412da4a {\n50% {\n    opacity: 0.5;\n}\n100% {\n    opacity: 0;\n}\n}\n@media only screen and (min-width: 320px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 375px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 414px){\n.column[data-v-7412da4a]{\n            min-height: 833px;\n}\n.main[data-v-7412da4a]{\n          min-height: 897px;\n}\n}\n@media only screen and (min-width: 425px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 768px){\n.column[data-v-7412da4a]{\n            min-height: 670px;\n}\n}\n@media only screen and (max-width: 1025px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.main[data-v-7412da4a] {\n  max-width: 1480 !important;\n  display: flex;\n  justify-content: space-between;\n  background-image: linear-gradient(352deg, #912121, #2a3480);\n  min-height: 733px;\n}\n.column[data-v-7412da4a]{\n    min-height: 670px;\n    width: 55px;\n    position: fixed;\n    top: 63px;\n    right: 0px;\n    display: grid;\n    align-content: space-between;\n}\n#wid[data-v-7412da4a]{\n  width: 142px;\n}\n#w[data-v-7412da4a]{\n  width: 40px;\n}\n.side[data-v-7412da4a]{\n    width: 200px;\n    transition: width 1s;\n}\n.closed[data-v-7412da4a]{\n  width: 55px;\n  transition: width 1s;\n}\n.menu[data-v-7412da4a]:hover {\n  color: #b32c2c;\n  transition: 1.5s;\n}\n.menu[data-v-7412da4a]:active {\n  transition: 2s;\n  animation: opacity-7412da4a;\n}\n.nav[data-v-7412da4a]{\n  position: fixed;\n  width: 100%;\n  max-width: 1490px;\n  flex-direction: column;\n  top: 0;\n}\n@keyframes opacity-7412da4a {\n50% {\n    opacity: 0.5;\n}\n100% {\n    opacity: 0;\n}\n}\n@media only screen and (min-width: 320px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 375px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (max-width: 414px){\n.column[data-v-7412da4a]{\n            min-height: 833px;\n}\n.main[data-v-7412da4a]{\n          min-height: 897px;\n}\n}\n@media only screen and (min-width: 425px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 768px){\n.column[data-v-7412da4a]{\n            min-height: 670px;\n}\n}\n@media only screen and (max-width: 1025px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -30867,7 +30924,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.horizontal[data-v-097ba13b]{\n        border: 8px solid black;\n    background: rgb(60, 60, 60);\n    width: 120px;\n    height: 18px;\n    position: relative;\n    left: -50px;\n    top: 50px;\n    /* animation: hrt 2s; */\n    animation: pulo-097ba13b 4s infinite;\n}\n.vertical[data-v-097ba13b]{\n        border: 8px solid black;\n    background: rgb(60, 60, 60);\n    width: 20px;\n    height: 144px;\n    position: relative;\n    left: 0;\n    /* top: 0px; */\n    /* animation: vrt 2s; */\n    animation: pulo1-097ba13b 4s infinite;\n}\n.cruz[data-v-097ba13b]{\n        \n         position: fixed;\n         left: 137px;\n        top: 150px;\n}\n@keyframes vrt-097ba13b {\n0%{\n            opacity: 0;\n            top: 72px;\n            left: 3px;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes hrt-097ba13b {\n0%{\n            opacity: 0;\n            left: 0px;\n            top: 600;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes pulo-097ba13b {\n0% {\n        /* top: 150px; */\n        top: 50px;\n}\n50% {\n        top: 5px;\n}\n100% {\n        top: 50px;\n}\n}\n@keyframes pulo1-097ba13b {\n0%{\n            /* top: 183px; */\n            top: 0px;\n}\n50%{\n            top: -50px;\n}\n100%{\n            top: 0px;\n}\n}\n@media only screen and (max-width: 1025px){\n.cruz[data-v-097ba13b]{\n            left: 68px;\n            top: 150px;\n}\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.horizontal[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(162, 10, 10);\n    width: 120px;\n    height: 18px;\n    position: relative;\n    left: -50px;\n    top: 50px;\n    /* animation: hrt 2s; */\n    animation: pulo-097ba13b 4s infinite;\n}\n.vertical[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(141, 19, 19);\n    width: 20px;\n    height: 144px;\n    position: relative;\n    left: 0;\n    /* top: 0px; */\n    /* animation: vrt 2s; */\n    animation: pulo1-097ba13b 4s infinite;\n}\n.cruz[data-v-097ba13b]{\n        \n         position: absolute;\n         left: 137px;\n        top: 150px;\n}\n@keyframes vrt-097ba13b {\n0%{\n            opacity: 0;\n            top: 72px;\n            left: 3px;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes hrt-097ba13b {\n0%{\n            opacity: 0;\n            left: 0px;\n            top: 600;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes pulo-097ba13b {\n0% {\n        /* top: 150px; */\n        top: 50px;\n}\n50% {\n        top: 0px;\n}\n100% {\n        top: 50px;\n}\n}\n@keyframes pulo1-097ba13b {\n0%{\n            /* top: 183px; */\n            top: 0px;\n}\n50%{\n            top: -50px;\n}\n100%{\n            top: 0px;\n}\n}\n@media only screen and (max-width: 1025px){\n.cruz[data-v-097ba13b]{\n            left: 68px;\n            top: 150px;\n}\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

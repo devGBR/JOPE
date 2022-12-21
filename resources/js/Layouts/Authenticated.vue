@@ -32,7 +32,7 @@ export default {
   <div class="pg">
       <!-- Page Content -->
   <div class="main">
-    <main style="margin: 0 auto;
+    <main style="width: 100%;
     margin-top: 38px;
     padding-top: 59px;
     ">
@@ -203,7 +203,7 @@ export default {
             min-height: 615px;
         }
 }
-@media only screen and (min-width: 414px){
+@media only screen and (max-width: 414px){
         .column{
             min-height: 833px;
         }
