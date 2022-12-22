@@ -24142,6 +24142,7 @@ var _hoisted_31 = {
   key: 0,
   "class": "ml-3"
 };
+var _hoisted_32 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<footer class=\"p-4 sm:p-6 dark:bg-gray-900\" style=\"background-image:linear-gradient(180deg, #75263b, #2a3480);width:97%;\" data-v-7412da4a><div class=\"md:flex\" data-v-7412da4a><div class=\"mb-6 md:mb-0\" data-v-7412da4a><a href=\"https://flowbite.com/\" class=\"flex items-center\" data-v-7412da4a><img src=\"img/logo.png\" class=\"mr-3 h-8\" alt=\"FlowBite Logo\" style=\"margin-left:23px;\" data-v-7412da4a></a><div class=\"flex mt-2 space-x-6 sm:justify-center sm:mt-0\" data-v-7412da4a><a href=\"#\" class=\"text-gray-500 hover:text-gray-900 dark:hover:text-white\" data-v-7412da4a><svg class=\"w-5 h-5\" fill=\"currentColor\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" data-v-7412da4a><path fill-rule=\"evenodd\" d=\"M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z\" clip-rule=\"evenodd\" data-v-7412da4a></path></svg><span class=\"sr-only\" data-v-7412da4a>Facebook page</span></a><a href=\"#\" class=\"text-gray-500 hover:text-gray-900 dark:hover:text-white\" data-v-7412da4a><svg class=\"w-5 h-5\" fill=\"currentColor\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" data-v-7412da4a><path fill-rule=\"evenodd\" d=\"M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z\" clip-rule=\"evenodd\" data-v-7412da4a></path></svg><span class=\"sr-only\" data-v-7412da4a>Instagram page</span></a><a href=\"#\" class=\"text-gray-500 hover:text-gray-900 dark:hover:text-white\" data-v-7412da4a><svg class=\"w-5 h-5\" fill=\"currentColor\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" data-v-7412da4a><path d=\"M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84\" data-v-7412da4a></path></svg><span class=\"sr-only\" data-v-7412da4a>Twitter page</span></a></div></div><div class=\"position\" data-v-7412da4a><div data-v-7412da4a><h2 class=\"mb-2 text-sm font-semibold text-gray-900 uppercase dark:text-white\" data-v-7412da4a></h2><ul class=\"text-gray-600 dark:text-gray-400\" data-v-7412da4a><li class=\"mb-3\" data-v-7412da4a><a href=\"https://flowbite.com/\" class=\"hover:underline flex\" data-v-7412da4a><svg class=\"w-6 h-6\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" data-v-7412da4a><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z\" data-v-7412da4a></path></svg><span class=\"ml-2\" data-v-7412da4a>Mission the word</span></a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://tailwindcss.com/\" class=\"hover:underline flex\" data-v-7412da4a><svg class=\"w-6 h-6\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" data-v-7412da4a><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z\" data-v-7412da4a></path></svg><span class=\"ml-2\" data-v-7412da4a>Loja da JOPE Oficial</span></a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://tailwindcss.com/\" class=\"hover:underline flex\" data-v-7412da4a><svg class=\"w-6 h-6\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\" data-v-7412da4a><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5.636 18.364a9 9 0 010-12.728m12.728 0a9 9 0 010 12.728m-9.9-2.829a5 5 0 010-7.07m7.072 0a5 5 0 010 7.07M13 12a1 1 0 11-2 0 1 1 0 012 0z\" data-v-7412da4a></path></svg><span class=\"ml-2\" data-v-7412da4a>Live</span></a></li></ul></div><p class=\"\" style=\"height:172px;border-right:2px solid;margin-left:100px;margin-right:17px;\" data-v-7412da4a></p><div class=\"grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3\" data-v-7412da4a><div data-v-7412da4a><h2 class=\"mb-2 text-sm font-semibold text-gray-900 uppercase dark:text-white\" data-v-7412da4a>Pagina</h2><ul class=\"text-gray-600 dark:text-gray-400\" data-v-7412da4a><li class=\"mb-3\" data-v-7412da4a><a href=\"#Quem-Somos\" class=\"\" data-v-7412da4a>quem somos</a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://tailwindcss.com/\" class=\"\" data-v-7412da4a>eventos</a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://tailwindcss.com/\" class=\"\" data-v-7412da4a>mídias</a></li><li data-v-7412da4a><a href=\"https://tailwindcss.com/\" class=\"\" data-v-7412da4a>FAQ</a></li></ul></div><div data-v-7412da4a><h2 class=\"mb-2 text-sm font-semibold text-gray-900 uppercase dark:text-white\" data-v-7412da4a>Siga-nos</h2><ul class=\"text-gray-600 dark:text-gray-400\" data-v-7412da4a><li class=\"mb-4\" data-v-7412da4a><a href=\"https://github.com/themesberg/flowbite\" class=\"hover:underline\" data-v-7412da4a>Instagram</a></li><li data-v-7412da4a><a href=\"https://discord.gg/4eeurUVvTy\" class=\"hover:underline\" data-v-7412da4a>Facebook</a></li></ul></div><div data-v-7412da4a><h2 class=\"mb-2 text-sm font-semibold text-gray-900 uppercase dark:text-white\" data-v-7412da4a>JOPERS</h2><ul class=\"text-gray-600 dark:text-gray-400\" data-v-7412da4a><li class=\"mb-3\" data-v-7412da4a><a href=\"https://www.instagram.com/joperecife/\" class=\"hover:underline\" data-v-7412da4a>JopeRecife</a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://www.instagram.com/jopeoiapoque/\" class=\"hover:underline\" data-v-7412da4a>JopeOiapoque</a></li><li class=\"mb-3\" data-v-7412da4a><a href=\"https://www.instagram.com/jopearaguari/\" class=\"hover:underline\" data-v-7412da4a>JopeAraguari</a></li><li class=\"\" data-v-7412da4a><a href=\"https://www.instagram.com/jopemaceio_/\" class=\"hover:underline\" data-v-7412da4a>JopeMaceio</a></li></ul></div></div></div></div><hr class=\"my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8\" style=\"margin-top:0px;\" data-v-7412da4a><div class=\"sm:flex sm:items-center sm:justify-between\" data-v-7412da4a><span class=\"text-sm text-gray-500 sm:text-center dark:text-gray-400\" data-v-7412da4a>© 2022 <a href=\"https://JOPEMoviment.com\" class=\"hover:underline\" data-v-7412da4a>JOPEMoviment™</a>. Tudo por Cristo✝️. </span></div></footer>", 1);
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Page Content "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("main", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.renderSlot)(_ctx.$slots, "default", {}, undefined, true)]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" SideBar ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("nav", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [_hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
@@ -24266,7 +24267,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return [_hoisted_30, $data.drawer ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("span", _hoisted_31, "Sair")) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)];
     }),
     _: 1 /* STABLE */
-  }, 8 /* PROPS */, ["href"])])], 2 /* CLASS */)]);
+  }, 8 /* PROPS */, ["href"])])], 2 /* CLASS */), _hoisted_32]);
 }
 
 /***/ }),
@@ -25189,46 +25190,45 @@ __webpack_require__.r(__webpack_exports__);
 var _withScopeId = function _withScopeId(n) {
   return (0,vue__WEBPACK_IMPORTED_MODULE_0__.pushScopeId)("data-v-097ba13b"), n = n(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.popScopeId)(), n;
 };
-var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
-  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "cruz"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "horizontal"
-  }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "vertical"
-  })], -1 /* HOISTED */);
-});
+var _hoisted_1 = {
+  "class": "cruz"
+};
 var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "horizontal"
+  }, null, -1 /* HOISTED */);
+});
+var _hoisted_3 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "vertical"
+  }, null, -1 /* HOISTED */);
+});
+var _hoisted_4 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "versiculo"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" “Porque Deus amou o mundo de tal maneira,"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" que deu o seu Filho Unigênito, para que todo a"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" quele que nele crê não pereça, "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" mas tenha a vida eterna” "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" (João 3:16). ")], -1 /* HOISTED */);
+});
+var _hoisted_5 = [_hoisted_4];
+var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    id: "Quem-Somos",
     "class": "conteudo"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "",
-    style: {
-      "font-family": "Montserrat, MAfinest",
-      "font-size": "65px",
-      "margin-top": "35px",
-      "font-weight": "100",
-      "margin-left": "50px"
-    }
-  }, " Missões "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "",
-    style: {
-      "border-bottom": "3px solid",
-      "border-left": "3px solid",
-      "border-radius": "1px",
-      "height": "107px",
-      "width": "267px",
-      "margin-left": "78px",
-      "padding-left": "22px",
-      "padding-top": "14px"
-    }
-  }, "JOPE significa Jovens Orando Pregando Evangelizando"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("video", {
+    "class": "titulo"
+  }, " O que é a JOPE? "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "borda"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "text"
+  }, " JOPE significa Jovens Orando Pregando e Evangelizando ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("video", {
     "class": "h-auto rounded-lg border border-gray-200 dark:border-gray-700",
     controls: "",
     style: {
       "position": "relative",
-      "left": "347px",
-      "top": "-135px"
+      "left": "510px",
+      "top": "-135px",
+      "height": "330px !important",
+      "width": "700px",
+      "border": "3px solid black !important"
     }
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("source", {
     src: "/docs/videos/flowbite.mp4",
@@ -25244,7 +25244,9 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     title: "Home"
   }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_BreezeAuthenticatedLayout, null, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
-      return [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_carrousel), _hoisted_2];
+      return [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [_hoisted_2, _hoisted_3, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+        "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([$data.VerAnim, "principal"])
+      }, _hoisted_5, 2 /* CLASS */)]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_carrousel), _hoisted_6];
     }),
     _: 1 /* STABLE */
   })], 64 /* STABLE_FRAGMENT */);
@@ -30828,7 +30830,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.main[data-v-7412da4a] {\n  max-width: 1480 !important;\n  display: flex;\n  justify-content: space-between;\n  background-image: linear-gradient(352deg, #912121, #2a3480);\n  min-height: 733px;\n}\n.column[data-v-7412da4a]{\n    min-height: 670px;\n    width: 55px;\n    position: fixed;\n    top: 63px;\n    right: 0px;\n    display: grid;\n    align-content: space-between;\n}\n#wid[data-v-7412da4a]{\n  width: 142px;\n}\n#w[data-v-7412da4a]{\n  width: 40px;\n}\n.side[data-v-7412da4a]{\n    width: 200px;\n    transition: width 1s;\n}\n.closed[data-v-7412da4a]{\n  width: 55px;\n  transition: width 1s;\n}\n.menu[data-v-7412da4a]:hover {\n  color: #b32c2c;\n  transition: 1.5s;\n}\n.menu[data-v-7412da4a]:active {\n  transition: 2s;\n  animation: opacity-7412da4a;\n}\n.nav[data-v-7412da4a]{\n  position: fixed;\n  width: 100%;\n  max-width: 1490px;\n  flex-direction: column;\n  top: 0;\n}\n@keyframes opacity-7412da4a {\n50% {\n    opacity: 0.5;\n}\n100% {\n    opacity: 0;\n}\n}\n@media only screen and (min-width: 320px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 375px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (max-width: 414px){\n.column[data-v-7412da4a]{\n            min-height: 833px;\n}\n.main[data-v-7412da4a]{\n          min-height: 897px;\n}\n}\n@media only screen and (min-width: 425px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 768px){\n.column[data-v-7412da4a]{\n            min-height: 670px;\n}\n}\n@media only screen and (max-width: 1025px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.position[data-v-7412da4a] {\n  display: flex;\n    position: relative;\n    left: 171px;\n}\n.main[data-v-7412da4a] {\n  max-width: 1480 !important;\n  display: flex;\n  justify-content: space-between;\n  \n  min-height: 733px;\n}\n.pg[data-v-7412da4a]{\n  background-image: linear-gradient(352deg, #912121, #2a3480);\n}\na[data-v-7412da4a]:hover{\n  text-decoration: none !important;\n}\n.h-8[data-v-7412da4a]{\n  height: 4rem;\n    width: 298px;\n}\n.column[data-v-7412da4a]{\n    min-height: 670px;\n    width: 55px;\n    position: fixed;\n    top: 63px;\n    right: 0px;\n    display: grid;\n    align-content: space-between;\n}\n#wid[data-v-7412da4a]{\n  width: 142px;\n}\n#w[data-v-7412da4a]{\n  width: 40px;\n}\n.side[data-v-7412da4a]{\n    width: 200px;\n    transition: width 1s;\n}\n.closed[data-v-7412da4a]{\n  width: 55px;\n  transition: width 1s;\n}\n.menu[data-v-7412da4a]:hover {\n  color: #b32c2c;\n  transition: 1.5s;\n}\n.menu[data-v-7412da4a]:active {\n  transition: 2s;\n  animation: opacity-7412da4a;\n}\n.nav[data-v-7412da4a]{\n  position: fixed;\n  width: 100%;\n  max-width: 1490px;\n  flex-direction: column;\n  top: 0;\n}\n@keyframes opacity-7412da4a {\n50% {\n    opacity: 0.5;\n}\n100% {\n    opacity: 0;\n}\n}\n@media only screen and (min-width: 320px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 375px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (max-width: 414px){\n.column[data-v-7412da4a]{\n            min-height: 833px;\n}\n.main[data-v-7412da4a]{\n          min-height: 897px;\n}\n}\n@media only screen and (min-width: 425px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n@media only screen and (min-width: 768px){\n.column[data-v-7412da4a]{\n            min-height: 670px;\n}\n}\n@media only screen and (max-width: 1025px){\n.column[data-v-7412da4a]{\n            min-height: 615px;\n}\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -30924,7 +30926,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.horizontal[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(162, 10, 10);\n    width: 120px;\n    height: 18px;\n    position: relative;\n    left: -50px;\n    top: 50px;\n    /* animation: hrt 2s; */\n    animation: pulo-097ba13b 4s infinite;\n}\n.vertical[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(141, 19, 19);\n    width: 20px;\n    height: 144px;\n    position: relative;\n    left: 0;\n    /* top: 0px; */\n    /* animation: vrt 2s; */\n    animation: pulo1-097ba13b 4s infinite;\n}\n.cruz[data-v-097ba13b]{\n        \n         position: absolute;\n         left: 137px;\n        top: 150px;\n}\n@keyframes vrt-097ba13b {\n0%{\n            opacity: 0;\n            top: 72px;\n            left: 3px;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes hrt-097ba13b {\n0%{\n            opacity: 0;\n            left: 0px;\n            top: 600;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes pulo-097ba13b {\n0% {\n        /* top: 150px; */\n        top: 50px;\n}\n50% {\n        top: 0px;\n}\n100% {\n        top: 50px;\n}\n}\n@keyframes pulo1-097ba13b {\n0%{\n            /* top: 183px; */\n            top: 0px;\n}\n50%{\n            top: -50px;\n}\n100%{\n            top: 0px;\n}\n}\n@media only screen and (max-width: 1025px){\n.cruz[data-v-097ba13b]{\n            left: 68px;\n            top: 150px;\n}\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.principal[data-v-097ba13b]{\n    position: relative;\n    width: 328px;\n    left: 0px;\n    top: 0px;\n}\n.horizontal[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(162, 10, 10);\n    width: 120px;\n    height: 18px;\n    position: relative;\n    left: 97px;\n    top: 50px;\n    /* animation: hrt 2s; */\n    animation: pulo-097ba13b 4s infinite;\n}\n.vertical[data-v-097ba13b]{\n        border: 8px solid rgb(255, 255, 255);\n    background: rgb(141, 19, 19);\n    width: 20px;\n    height: 144px;\n    position: relative;\n    left: 149px;\n    /* top: 0px; */\n    /* animation: vrt 2s; */\n    animation: pulo1-097ba13b 4s infinite;\n}\n.cruz[data-v-097ba13b]{\n        position: absolute;\n        left: 6px;\n        top: 150px;\n        width: 331px;\n        height: 300px;\n}\n.text[data-v-097ba13b]{\n        width: 79%;\n        color: white;\n        text-shadow: \n               -1px -1px 0px rgb(17, 17, 17), \n               -1px 1px 0px rgb(18, 17, 17),                    \n                1px -1px 0px rgb(21, 21, 21),                  \n                1px 0px 0px rgb(20, 20, 20);\n}\n.versiculo[data-v-097ba13b]{\n        font-family: Baskerville;\n        font-size: 17.5px;\n        color: white;\n        text-shadow: \n               -1px -1px 0px rgb(17, 17, 17), \n               -1px 1px 0px rgb(18, 17, 17),                    \n                1px -1px 0px rgb(21, 21, 21),                  \n                1px 0px 0px rgb(20, 20, 20);\n}\n.PrimaryAnim[data-v-097ba13b]{\n        animation: PrimaryAnim-097ba13b 4s;\n}\n.SecondAnim[data-v-097ba13b]{\n        animation: SecondAnim-097ba13b 4s infinite;\n}\n.borda[data-v-097ba13b]{\n        border-bottom: 3px solid rgb(0, 0, 0);\n    border-left: 3px solid rgb(0, 0, 0);\n    height: 107px;\n    width: 408px;\n    margin-left: 112px;\n    padding: 7px 0px 75px 36px;\n    font-family: Montserrat, MAfinest;\n    font-size: 15px;\n    font-weight: 300;\n    border-top-color: rgb(0, 0, 0);\n    border-right-color: rgb(0, 0, 0);\n    margin-top: 0px;\n}\n.titulo[data-v-097ba13b]{\n        font-family: Montserrat, MAfinest;\n        font-size: 3.5rem;\n        margin-top: 79px;\n        font-weight: 500;\n        margin-left: 90px;\n        line-height: 1.2;\n        color: black;\n}\n@keyframes SecondAnim-097ba13b {\n0%{\n            top: 6px;\n}\n50%{\n            top: -47px;\n}\n100%{\n            top: 6px;\n}\n}\n@keyframes PrimaryAnim-097ba13b {\n0%{\n                position: relative;\n                opacity: 0;\n}\n30%{\n                opacity: 0.2;\n}\n100%{\n                position: relative;\n                \n                opacity: 1;\n}\n}\n@keyframes vrt-097ba13b {\n0%{\n            opacity: 0;\n            top: 72px;\n            left: 3px;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes hrt-097ba13b {\n0%{\n            opacity: 0;\n            left: 0px;\n            top: 600;\n}\n100%{\n            opacity: 1;\n}\n}\n@keyframes pulo-097ba13b {\n0% {\n        /* top: 150px; */\n        top: 50px;\n}\n50% {\n        top: 0px;\n}\n100% {\n        top: 50px;\n}\n}\n@keyframes pulo1-097ba13b {\n0%{\n            /* top: 183px; */\n            top: 0px;\n}\n50%{\n            top: -50px;\n}\n100%{\n            top: 0px;\n}\n}\n@media only screen and (max-width: 1025px){\n.cruz[data-v-097ba13b]{\n            left: 68px;\n            top: 150px;\n}\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
