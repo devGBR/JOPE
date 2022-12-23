@@ -79,9 +79,13 @@ export default {
                     </div>
                 </div>
                 <div class="postsdarede">
-                    <div class="postagens">
-                        <div class="border"></div>
+                    <div class="border">
+                        <div class="postagens">
+                            
                     </div>
+                    
+                </div>
+                    
                 </div>
         </div>
   </BreezeAuthenticatedLayout>
@@ -89,19 +93,24 @@ export default {
 
 <style scoped>
 .border{
-border: 3px solid #000!important;
+    border: 3px solid #000!important;
     width: 282px;
     height: 282px;
+    margin-bottom: 40px ;
 }
 .postagens {
     border: 2px solid white;
-    width: 175px;
-    height: 28px;
+    width: 75%;
+    height: 14%;
     position: relative;
+    top: 101.3%;
+    left: -1%;
+    background: white;
 }
 .postsdarede {
-    width: 91.7%;;
-    height: 320px;
+    width: 91.7%;
+    height: 100%;
+    min-height: 335px;
     border: 3px solid rgb(0 0 0);
     margin-left: 2.9%;
     border-radius: 2px;
