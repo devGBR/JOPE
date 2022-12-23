@@ -136,7 +136,7 @@ export default {
     </ul>
   </div>
 
-  <footer class="p-4 sm:p-6 dark:bg-gray-900" style="background-image: linear-gradient(180deg, #75263b, #2a3480); width: 97%;">
+  <footer class="p-4 sm:p-6 dark:bg-gray-900" style="background-image: linear-gradient(180deg, #7e2432, #2a3480); width: 97%;">
     <div class="md:flex">
         <div class="mb-6 md:mb-0">
             <a href="https://flowbite.com/" class="flex items-center">
