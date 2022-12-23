@@ -78,13 +78,27 @@ export default {
                         Veja o que está acontecendo nas Redes Sociais da JOPE!
                     </div>
                 </div>
-                <div class="postsdarede"></div>
+                <div class="postsdarede">
+                    <div class="postagens">
+                        <div class="border"></div>
+                    </div>
+                </div>
         </div>
   </BreezeAuthenticatedLayout>
 </template>
 
 <style scoped>
-
+.border{
+border: 3px solid #000!important;
+    width: 282px;
+    height: 282px;
+}
+.postagens {
+    border: 2px solid white;
+    width: 175px;
+    height: 28px;
+    position: relative;
+}
 .postsdarede {
     width: 91.7%;;
     height: 320px;
@@ -94,6 +108,10 @@ export default {
     position: relative;
     top: -3px;
     border-top: none;
+    padding-top: 17px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 14px;
 }
 .card{
     position: relative;
