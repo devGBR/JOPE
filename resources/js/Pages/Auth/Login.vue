@@ -41,7 +41,7 @@ const register = () => {
     <BreezeGuestLayout>
         
         <Head title="Log in" />
-        <div  class="w-full flipper sm:max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg">
+        <div  class="w-full flipper sm:max-w-md mt-6 px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg" style="min-width: 450px !important;">
         <label class="inline-flex relative cursor-pointer" data-v-a2ac2cea="" style="
              display: flex;
              justify-content: center;
@@ -60,7 +60,7 @@ const register = () => {
         <div v-if="status" class="mb-4 font-medium text-sm text-green-600">
             {{ status }}
         </div>
-        <div>
+        <div >
             <div  class="front " v-if="loginORregister">
                 <form  @submit.prevent="submit">
             <div :id="giro" class="textbox">
