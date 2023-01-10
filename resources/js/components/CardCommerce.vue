@@ -10,7 +10,7 @@
             alt="product image"
             data-v-097ba13b=""/>
         </a>
-        <div class="px-5 pb-5" data-v-097ba13b="">
+        <div class="px-5 pb-5" data-v-097ba13b="" style="width: 111%;">
           <a href="#" data-v-097ba13b="">
             <h5
               class=" text-xl font-semibold tracking-tight text-gray-900 dark:text-white"

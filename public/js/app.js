@@ -25305,12 +25305,19 @@ var _hoisted_5 = {
     "padding-right": "0px"
   }
 };
-var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
+var _hoisted_6 = {
+  "class": "Posts"
+};
+var _hoisted_7 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "Posts"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "titulo"
-  }, "O que está acontecendo?"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "titulo",
+    style: {
+      "margin-top": "0px !important"
+    }
+  }, "O que está acontecendo?", -1 /* HOISTED */);
+});
+var _hoisted_8 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "borda",
     style: {
       "width": "88.2%"
@@ -25320,55 +25327,69 @@ var _hoisted_6 = /*#__PURE__*/_withScopeId(function () {
     style: {
       "padding-right": "58%"
     }
-  }, " Veja o que está acontecendo nas Redes Sociais da JOPE! ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "postsdarede"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "border"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "postagens"
-  }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    style: {
-      "position": "relative",
-      "top": "212px",
-      "left": "248px",
-      "height": "30px"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
-    "class": "w-5 h-5 text-white",
-    fill: "currentColor",
-    viewBox: "0 0 24 24",
-    "aria-hidden": "true"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
-    "fill-rule": "evenodd",
-    d: "M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z",
-    "clip-rule": "evenodd"
-  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-    "class": "sr-only"
-  }, "Instagram page")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "border"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "postagens"
-  }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    style: {
-      "position": "relative",
-      "top": "212px",
-      "left": "248px",
-      "height": "30px"
-    }
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
-    "class": "w-5 h-5 text-white",
-    fill: "currentColor",
-    viewBox: "0 0 24 24",
-    "aria-hidden": "true"
-  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
-    "fill-rule": "evenodd",
-    d: "M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z",
-    "clip-rule": "evenodd"
-  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
-    "class": "sr-only"
-  }, "Instagram page")])])])], -1 /* HOISTED */);
+  }, " Veja o que está acontecendo nas Redes Sociais da JOPE! ")], -1 /* HOISTED */);
 });
-
+var _hoisted_9 = {
+  "class": "postsdarede"
+};
+var _hoisted_10 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "border"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "bordinha"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "postagens"
+  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    style: {
+      "position": "relative",
+      "top": "212px",
+      "left": "248px",
+      "height": "30px",
+      "max-width": "20px !important"
+    }
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+    "class": "h-5 text-white",
+    fill: "currentColor",
+    viewBox: "0 0 24 24",
+    "aria-hidden": "true"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+    "fill-rule": "evenodd",
+    d: "M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z",
+    "clip-rule": "evenodd"
+  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+    "class": "sr-only"
+  }, "Instagram page")])], -1 /* HOISTED */);
+});
+var _hoisted_11 = [_hoisted_10];
+var _hoisted_12 = /*#__PURE__*/_withScopeId(function () {
+  return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "border"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "bordinha"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": "postagens"
+  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    style: {
+      "position": "relative",
+      "top": "212px",
+      "left": "248px",
+      "height": "30px",
+      "max-width": "20px !important"
+    }
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+    "class": "h-5 text-white",
+    fill: "currentColor",
+    viewBox: "0 0 24 24",
+    "aria-hidden": "true"
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+    "fill-rule": "evenodd",
+    d: "M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z",
+    "clip-rule": "evenodd"
+  })]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+    "class": "sr-only"
+  }, "Instagram page")])], -1 /* HOISTED */);
+});
+var _hoisted_13 = [_hoisted_12];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
   var _component_cruz_animation = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("cruz-animation");
@@ -25386,18 +25407,35 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
         style: {
           "position": "relative",
           "left": "9px",
-          "top": "7px"
+          "top": "7px",
+          "margin-right": "50px"
         }
       }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CardCommerce, {
         Titleitem: "Camisa Preta JOPE(...)",
         Price: "100",
         style: {
           "position": "relative",
-          "left": "60px !important",
+          "top": "7px",
+          "margin-right": "50px"
+        }
+      }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_CardCommerce, {
+        Titleitem: "Bone JOPE",
+        Price: "80",
+        style: {
+          "position": "relative",
           "top": "7px"
         }
-      })]), _hoisted_6];
+      })]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [_hoisted_7, _hoisted_8, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("table", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("tr", null, [((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, (0,vue__WEBPACK_IMPORTED_MODULE_0__.renderList)(5, function (index) {
+        return (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("td", {
+          key: index
+        }, _hoisted_11);
+      }), 64 /* STABLE_FRAGMENT */))]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("tr", null, [((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, (0,vue__WEBPACK_IMPORTED_MODULE_0__.renderList)(5, function (index) {
+        return (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("td", {
+          key: index
+        }, _hoisted_13);
+      }), 64 /* STABLE_FRAGMENT */))])])])])];
     }),
+
     _: 1 /* STABLE */
   })], 64 /* STABLE_FRAGMENT */);
 }
@@ -25428,7 +25466,10 @@ var _hoisted_2 = {
 var _hoisted_3 = ["src"];
 var _hoisted_4 = {
   "class": "px-5 pb-5",
-  "data-v-097ba13b": ""
+  "data-v-097ba13b": "",
+  style: {
+    "width": "111%"
+  }
 };
 var _hoisted_5 = {
   href: "#",
@@ -25666,8 +25707,8 @@ var _hoisted_1 = {
     "position": "relative",
     "left": "510px",
     "top": "-135px",
-    "height": "330px !important",
-    "width": "700px",
+    "height": "585px !important",
+    "width": "1150px",
     "border": "3px solid black !important"
   }
 };
@@ -31218,7 +31259,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.border[data-v-097ba13b]{\n    border: 3px solid #000!important;\n    width: 282px;\n    height: 282px;\n    margin-bottom: 40px ;\n    margin-right: 33px;\n}\n.postagens[data-v-097ba13b] {\n    border: 2px solid white;\n    width: 75%;\n    height: 14%;\n    position: relative;\n    top: 101.3%;\n    left: -1%;\n    background: white;\n}\n.postsdarede[data-v-097ba13b] {\n  display: -webkit-box;\n    width: 91.7%;\n    height: 100%;\n    min-height: 335px;\n    border: 3px solid rgb(0 0 0);\n    margin-left: 2.9%;\n    border-radius: 2px;\n    position: relative;\n    top: -3px;\n    border-top: none;\n    padding-top: 17px;\n    padding-left: 7px;\n    padding-right: 7px;\n    padding-bottom: 14px;\n}\n.card[data-v-097ba13b]{\n    position: relative;\n    display: flex !important;\n    /* -ms-flex-direction: column; */\n    flex-direction: unset;\n    min-width: 0;\n    word-wrap: break-word;\n    background-image: linear-gradient(145deg, #000000, #2a3480);\n    background-clip: border-box;\n    border: 3px solid rgb(0 0 0);\n    width: 853px;\n    border-radius: 0.25rem;\n    height: 375px;\n    left: 467px;\n    top: -113px;\n}\n.text[data-v-097ba13b] {\n  width: 79%;\n  color: white;\n  font-family: system-ui;\n  font-size: 15px;\n  font-weight: 300;\n}\n.borda[data-v-097ba13b] {\n  border-bottom: 3px solid rgb(0, 0, 0);\n  border-left: 3px solid rgb(0, 0, 0);\n  height: 107px;\n  width: 408px;\n  margin-left: 112px;\n  padding: 7px 0px 75px 36px;\n  border-top-color: rgb(0, 0, 0);\n  border-right-color: rgb(0, 0, 0);\n  margin-top: 0px;\n}\n.titulo[data-v-097ba13b] {\n  font-family: Montserrat, MAfinest;\n  font-size: 3.5rem;\n  margin-top: 79px;\n  font-weight: 500;\n  margin-left: 90px;\n  line-height: 1.2;\n  color: black;\n}\n.secondtitulo[data-v-097ba13b] {\nfont-family: Montserrat, MAfinest;\n    font-size: 3.5rem;\n    margin-top: 79px;\n    font-weight: 500;\n    margin-left: 90px;\n    line-height: 1.2;\n    color: black;\n}\n.secondborda[data-v-097ba13b] {\n    border-bottom: 3px solid rgb(0, 0, 0);\n    border-left: 3px solid rgb(0, 0, 0);\n    height: 107px;\n    width: 1092px;\n    margin-left: 112px;\n    padding: 7px 0px 75px 36px;\n    font-family: Montserrat, MAfinest;\n    font-size: 15px;\n    font-weight: 300;\n    border-top-color: rgb(0, 0, 0);\n    border-right-color: rgb(0, 0, 0);\n    margin-top: 0px;\n}\n.camisa[data-v-097ba13b] {\n    position: relative;\n    top: -110px;\n    margin-left: 109px;\n}\n\n\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.border[data-v-097ba13b] {\n  border: 3px solid #000 !important;\n  width: 282px;\n  height: 282px;\n  margin-bottom: 40px;\n  margin-right: 33px;\n}\n.bordinha[data-v-097ba13b] {\n  border: 3px solid #000;\n  height: 14%;\n  position: relative;\n  top: 97%;\n  left: 6%;\n  width: 75%;\n}\n.postagens[data-v-097ba13b] {\n  width: 100%;\n  height: 100%;\n\n  background: white;\n}\n.postsdarede[data-v-097ba13b] {\n  display: -webkit-box;\n  width: 91.7%;\n  height: 100%;\n  min-height: 335px;\n  border: 3px solid rgb(0 0 0);\n  margin-left: 2.9%;\n  border-radius: 2px;\n  position: relative;\n  top: -3px;\n  border-top: none;\n  padding-top: 17px;\n  padding-left: 37px;\n  padding-right: 7px;\n  padding-bottom: 14px;\n}\n.card[data-v-097ba13b] {\n  position: relative;\n  display: flex !important;\n  /* -ms-flex-direction: column; */\n  flex-direction: unset;\n  min-width: 0;\n  word-wrap: break-word;\n  background-image: linear-gradient(145deg, #000000, #2a3480);\n  background-clip: border-box;\n  border: 3px solid rgb(0 0 0);\n  width: 72.5%;\n  border-radius: 0.25rem;\n  height: 375px;\n  left: 265px;\n  top: -113px;\n}\n.text[data-v-097ba13b] {\n  width: 79%;\n  color: white;\n  font-family: system-ui;\n  font-size: 15px;\n  font-weight: 300;\n}\n.borda[data-v-097ba13b] {\n  border-bottom: 3px solid rgb(0, 0, 0);\n  border-left: 3px solid rgb(0, 0, 0);\n  height: 107px;\n  width: 408px;\n  margin-left: 112px;\n  padding: 7px 0px 75px 36px;\n  border-top-color: rgb(0, 0, 0);\n  border-right-color: rgb(0, 0, 0);\n  margin-top: 0px;\n}\n.titulo[data-v-097ba13b] {\n  font-family: Montserrat, MAfinest;\n  font-size: 3.5rem;\n  margin-top: 40px;\n  font-weight: 500;\n  margin-left: 90px;\n  line-height: 1.2;\n  color: black;\n}\n.secondtitulo[data-v-097ba13b] {\n  font-family: Montserrat, MAfinest;\n  font-size: 3.5rem;\n  margin-top: 79px;\n  font-weight: 500;\n  margin-left: 90px;\n  line-height: 1.2;\n  color: black;\n}\n.secondborda[data-v-097ba13b] {\n  border-bottom: 3px solid rgb(0, 0, 0);\n  border-left: 3px solid rgb(0, 0, 0);\n  height: 107px;\n  width: 1092px;\n  margin-left: 112px;\n  padding: 7px 0px 75px 36px;\n  font-family: Montserrat, MAfinest;\n  font-size: 15px;\n  font-weight: 300;\n  border-top-color: rgb(0, 0, 0);\n  border-right-color: rgb(0, 0, 0);\n  margin-top: 0px;\n}\n.camisa[data-v-097ba13b] {\n  position: relative;\n  top: -110px;\n  margin-left: -91px;\n}\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

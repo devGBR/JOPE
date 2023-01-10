@@ -6,8 +6,8 @@
           position: relative;
           left: 510px;
           top: -135px;
-          height: 330px !important;
-          width: 700px;
+          height: 585px !important;
+          width: 1150px;
           border: 3px solid black !important;">
 
         <source src="/docs/videos/flowbite.mp4" type="video/mp4" />
